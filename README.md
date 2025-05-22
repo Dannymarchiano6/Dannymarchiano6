@@ -1,4 +1,4 @@
-![banner](C:/Users/deni_/OneDrive/Documents/Dannymarchiano6/banner.png)
+![banner](Assets/banner.png)
 
 - 😄 I am Student and I love Game Dev
 - ⚡ I am Curently Learning Machine Learning and    Network
