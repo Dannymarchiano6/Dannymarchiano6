@@ -1,4 +1,4 @@
-![A colorful banner displaying the name Danny Marchiano in bold letters, set against a modern abstract background with geometric shapes and gradients. The overall tone is welcoming and energetic.](C:/Users/deni_/OneDrive/Documents/Dannymarchiano6/banner.png)
+![banner](C:/Users/deni_/OneDrive/Documents/Dannymarchiano6/banner.png)
 
 - 😄 I am Student and I love Game Dev
 - ⚡ I am Curently Learning Machine Learning and    Network
