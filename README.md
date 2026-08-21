@@ -1,2 +1,11 @@
-- 😄 I am Danny
-🔥🔥🔥🔥🔥🔥🔥
+### Hi, I'm Danny Marchiano 👋
+
+I'm a Web Developer. Currently taking on freelance projects, with a strong focus on backend engineering. I love crafting solid database schemas, designing RESTful APIs, and making sure the server side runs fast and reliably behind the scenes.
+
+**What I usually work with:**
+* PHP / Laravel & Node.js
+* MySQL
+* Docker, Git, & Linux environments
+* CSS using TailwindCSS, Boostrap
+
+Right now, I'm constantly exploring modern backend architecture, query optimization, and system design.
