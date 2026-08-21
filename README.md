@@ -6,6 +6,6 @@ I'm a Web Developer. Currently taking on freelance projects, with a strong focus
 * PHP / Laravel & Node.js
 * MySQL
 * Docker, Git, & Linux environments
-* CSS using TailwindCSS, Boostrap
+* CSS using TailwindCSS, Bootstrap
 
-Right now, I'm constantly exploring modern backend architecture, query optimization, and system design.
+Right now, I'm expanding my knowledge in modern backend architecture, database optimization, and deep-diving into AI technologies.
